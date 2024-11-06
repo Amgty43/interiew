@@ -8,7 +8,7 @@ pip install plotly
 
 Running the Code
 Run the script:
-python gantt_chart.py
+python3 gantt_chart.py
 
 Dependencies
 Python 3.7+
